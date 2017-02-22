@@ -9,4 +9,7 @@
 Create an app that has one button. When the button is pressed, the current temperature in Houston Texas is shown in a text field. By current temperature, we mean the temperature when we run your app.
 
 # Your comments or assumptions
-- <add them here>
+
+In order to complete it, I used openweatherapi and parsed the JSON data retured for Houston to get the 
+current temperature. I have also converted the temperature from kelvin to celsius before displaying it
+in a text field.
